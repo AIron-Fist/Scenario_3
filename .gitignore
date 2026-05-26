@@ -1,3 +1,9 @@
 .pytest_cache/
 pycache/
 *.pyc
+.env
+.env.*
+!.env.example
+secrets.yaml
+*.secret.yaml
+*.secrets.yaml
