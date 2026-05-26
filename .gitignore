@@ -1,9 +1,7 @@
-.pytest_cache/
-pycache/
-*.pyc
+# Logs
+logs
+*.log
+node_modules/
 .env
-.env.*
-!.env.example
 secrets.yaml
-*.secret.yaml
-*.secrets.yaml
+
